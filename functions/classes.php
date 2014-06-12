@@ -18,6 +18,7 @@ class DB{
 ));
 		return $this->dbh;
 		echo 'lol';
+		echo 'final';
 	}
 }
 
