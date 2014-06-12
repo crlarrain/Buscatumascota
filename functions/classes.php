@@ -17,8 +17,7 @@ class DB{
     PDO::ATTR_PERSISTENT => true
 ));
 		return $this->dbh;
-		echo 'lol';
-		echo 'final';
+		
 	}
 }
 
