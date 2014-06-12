@@ -21,7 +21,7 @@ include('functions/main.php'); ?>
 <!-- funciones jquery-->
 
 </head>
-
+<?php echo 'hola'?>
 <body>
 <div class="header">
 <?php get_menu();?>
